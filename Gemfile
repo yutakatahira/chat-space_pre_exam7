@@ -17,7 +17,6 @@ gem 'pry-rails'
 gem 'jbuilder', '~> 2.5'
 gem 'erb2haml'
 gem 'font-awesome-rails'
-
 gem 'carrierwave'
 gem 'mini_magick'
 
